@@ -40,5 +40,5 @@ java {
 compileJava.options.encoding = 'UTF-8'
 
 jar {
-	enabled=false
+	enabled = false
 }
